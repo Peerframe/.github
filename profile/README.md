@@ -8,6 +8,7 @@ Open-source tools for human–AI collaboration. We build **OpenBot**, a self-hos
 | --- | --- |
 | [OpenBot](https://github.com/Peerframe/openbot) | Product source, desktop app and self-hosted server · 产品源码、桌面应用与自托管服务 |
 | [OpenBot website](https://github.com/Peerframe/openbot-website) | Website, bilingual manuals and interactive demo · 官网、中英文手册与交互演示 |
+| [Skills](https://github.com/Peerframe/skills) · Private / 私有 | Reusable Agent Skills and workflow toolkits; repository access required · 可复用的 Agent Skills 与工作流工具包，需仓库访问权限 |
 
 ## Try OpenBot / 开始使用
 

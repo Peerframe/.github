@@ -1,8 +1,8 @@
 # Peerframe
 
-Open-source tools for human–AI collaboration. We build **OpenBot**, a self-hosted workspace where Bots remember their roles, collaborate in channels, and deliver useful files.
+We believe creativity belongs to everyone. Peerframe builds open tools that bring AI into the way people think, work, and create, helping more ideas become real. Our first project, **OpenBot**, is a space for people and Bots to work side by side.
 
-我们开发促进人与 AI 协作的开源工具。目前专注于 **OpenBot**：一个可自托管的 Bot 工作区，让 Bot 保留职责与记忆，在频道中分工协作，并交付可用文件。
+我们相信，创造力属于每一个人。Peerframe 构建开放的工具，让 AI 融入人的思考与协作，帮助更多想法成为现实。我们的第一个作品 **OpenBot**，是一个人与 Bot 并肩工作的空间。
 
 | Project / 项目 | What you will find / 内容 |
 | --- | --- |
